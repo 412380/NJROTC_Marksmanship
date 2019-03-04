@@ -1,6 +1,8 @@
 # NJROTC_Marksmanship
 NJROTC Marksmanship Folder from Troy Highschool
 -----------------------------------------------------------
+CHANGE BRANCH TO K-POP FOR DANCE PRACTICE
+-------------------------------------------------------------
 - All files here are for educational or competition purposes only
 - Use your head, and use the information sensibly
 - No one but you is responisble for your actions
