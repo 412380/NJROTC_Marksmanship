@@ -6,3 +6,4 @@ NJROTC Marksmanship Folder from Troy Highschool
 - No one but you is responisble for your actions
 - I do not claim ownership of all materials presented here, all resources belong to thier respective owners.
 - Pirating is illegal and bad, don't do it
+Practice Makes Perfect
